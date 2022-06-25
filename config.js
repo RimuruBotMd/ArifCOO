@@ -10,7 +10,7 @@ global.owner = [
 global.mods = ['62895347198105'] // Want some help?
 global.prems = ['62895347198105'] // Premium user has unlimited limit
 global.lolkey = '42092e951066bf09423f6ade'
-global.xkey = 'YourApikey'
+global.xkey = ''d37372311698ed1d'
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -25,7 +25,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'YourApikey',
+  'https://api.xteam.xyz': ''d37372311698ed1d',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
